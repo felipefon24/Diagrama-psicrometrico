@@ -30,4 +30,6 @@ def Temperatura_maxima(P):
     else:
         Tmax="La temperatura quedo fuera de los rangos de operacion"
     return Tmax
+print(hasta aqui llego el codigo)
+
 
